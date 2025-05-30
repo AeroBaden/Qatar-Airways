@@ -1,0 +1,87 @@
+{
+    "name": "Qatar Airways",
+    "color": "#5A0FC8",
+    "bgcolor": "#F0E6F6",
+    "aircrafts": {
+        "10": {
+            "name": "Airbus a380-800",
+            "liveries": [],
+            "labels": [
+                "Normal map",
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "239": {
+            "name": "Airbus a350-900",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2973": {
+            "name": "Airbus a350-1000",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "25": {
+            "name": "Boeing b777-300ER",
+            "liveries": [],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
+        "3575": {
+            "name": "Boeing b787-9",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3180": {
+            "name": "Boeing b787-10",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3534": {
+            "name": "Airbus a320-214",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2871": {
+            "name": "Airbus a320neo",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4646": {
+            "name": "Airbus a321neo",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4631": {
+            "name": "Airbus a330-900neo",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "2951": {
+            "name": "Airbus a340-300",
+            "liveries": [],
+            "labels": [
+                "Texture"
+            ]
+        }
+    }
+}
